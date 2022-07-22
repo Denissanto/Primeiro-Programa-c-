@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQrFAM/Ui5TaPTqCaD9wgfcVqEoRZyrf+Ue4PMBVQTETH5Iwa9dvMAjlYnxTvdEbASBOtdD6+giPrJdKjablmg==",
+  "success": true,
+  "projectFilePath": "C:\\desenv\\Primeiro Programa Mark 2\\Primeiro Programa Mark 2\\Primeiro Programa Mark 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis Toledo\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\Denis Toledo\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\Denis Toledo\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

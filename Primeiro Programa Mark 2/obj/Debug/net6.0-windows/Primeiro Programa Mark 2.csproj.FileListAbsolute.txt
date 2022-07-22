@@ -1,0 +1,18 @@
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\bin\Debug\net6.0-windows\Primeiro Programa Mark 2.exe
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\bin\Debug\net6.0-windows\Primeiro Programa Mark 2.deps.json
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\bin\Debug\net6.0-windows\Primeiro Programa Mark 2.runtimeconfig.json
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\bin\Debug\net6.0-windows\Primeiro Programa Mark 2.dll
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\bin\Debug\net6.0-windows\Primeiro Programa Mark 2.pdb
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro Programa Mark 2.csproj.AssemblyReference.cache
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro_Programa_Mark_2.Form1.resources
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro Programa Mark 2.csproj.GenerateResource.cache
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro Programa Mark 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro Programa Mark 2.AssemblyInfoInputs.cache
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro Programa Mark 2.AssemblyInfo.cs
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro Programa Mark 2.csproj.CoreCompileInputs.cache
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro Programa Mark 2.dll
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\refint\Primeiro Programa Mark 2.dll
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro Programa Mark 2.pdb
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro Programa Mark 2.genruntimeconfig.cache
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\ref\Primeiro Programa Mark 2.dll
+C:\desenv\Primeiro Programa Mark 2\Primeiro Programa Mark 2\obj\Debug\net6.0-windows\Primeiro_Programa_Mark_2.Properties.Resources.resources
